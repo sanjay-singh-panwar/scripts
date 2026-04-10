@@ -1,18 +1,15 @@
 Hello
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
+
 This is my new task . 
-=======
->>>>>>> fc8ccc2 (edit task.txt)
 This is my new task .
 
 this correct task. 
 
 This is my new task .
 
-this is for stashing  
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> fc8ccc2 (edit task.txt)
+
+this is fine
+
+this is wrong
+
+this is also fine. 
